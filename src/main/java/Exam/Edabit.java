@@ -5,5 +5,9 @@ public class Edabit {
     public static boolean returnTrue() {
      return true;
         }
+
+    public static void main(String[] args) {
+        System.out.println("Hello world");
+    }
     }
 
